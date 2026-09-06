@@ -1,0 +1,12 @@
+# Жашыруун ачкычтар жана базанын сырсөзү
+.env
+.env.local
+
+# Чоң китепканалар папкасы
+node_modules/
+
+# Логдор жана тутумдук файлдар
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
